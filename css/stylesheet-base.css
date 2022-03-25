@@ -96,3 +96,71 @@ div{
     padding-bottom: 10px;
     padding: auto;
 }
+
+@media screen and (max-width:480px) {
+	main {
+		width: 100%;
+	}
+
+    table{
+        border-collapse: collapse;
+    }
+
+    td{
+        padding-bottom: 7px;
+        border: thin dashed black;
+        border-color: gray;
+    }
+
+    .profile-info{
+        float:center;
+        width: 100%;
+    }
+
+    .icon-image{
+        padding-left: 40px;
+    }
+
+    .profile-info-td1{
+        width: 100px;
+    }
+
+    .profile-info-td2{
+        width: 110px;
+    }
+
+    .td1{
+        width: 180px;
+        padding-left: 0px;
+    }
+    .td2{
+        width: 0px;
+        display: none;
+    }
+
+    .text-box-center{
+        border-style: solid ;
+        border-color: tomato;
+        border-width: 1px;
+        border-left-width: 0.5em;
+        border-right-width: 0em;
+        border-top-width: thin;
+        border-bottom-width: 0em;
+        padding-left: 0%;
+        padding-top: 50px;
+        padding-bottom: 2px;
+    }
+
+    .text-box-left{
+        border-style: solid ;
+        border-color: tomato;
+        border-left-width: 0.5em;
+        border-right-width: 0em;
+        border-top-width: thin;
+        border-bottom-width: 0em;
+        padding-left: 0%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding: auto;
+    }
+}
