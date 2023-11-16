@@ -6,7 +6,7 @@ header{
     padding-top: 3%;
     padding-bottom: 2%;
     text-align: center;
-    background-color: bisque;
+    background-color: lightskyblue;
 }
 
 footer{
@@ -14,11 +14,11 @@ footer{
     height: 15%;
     text-align: center;
     padding-top: 3%;
-    background-color: bisque;
+    background-color: lightskyblue;
 }
 
 body{
-    margin: 100;
+    margin: 100px;
     line-height: 2.0em;
     font-family: "Helvetica Neue",
     Arial,
@@ -30,7 +30,7 @@ body{
 
 h1 {
     text-align: center;
-    color:hsl(342, 100%, 54%);
+    color: hsl(0, 0%, 100%);
 }
 
 td{
@@ -72,7 +72,7 @@ div{
 
 .text-box-center{
     border-style: solid ;
-    border-color: tomato;
+    border-color: lightskyblue;
     border-width: 1px;
     border-left-width: 0.5em;
     border-right-width: 0em;
@@ -86,7 +86,7 @@ div{
 
 .text-box-left{
     border-style: solid ;
-    border-color: tomato;
+    border-color: lightskyblue;
     border-left-width: 0.5em;
     border-right-width: 0em;
     border-top-width: thin;
@@ -140,7 +140,7 @@ div{
 
     .text-box-center{
         border-style: solid ;
-        border-color: tomato;
+        border-color: lightskyblue;
         border-width: 1px;
         border-left-width: 0.5em;
         border-right-width: 0em;
@@ -153,7 +153,7 @@ div{
 
     .text-box-left{
         border-style: solid ;
-        border-color: tomato;
+        border-color: lightskyblue;
         border-left-width: 0.5em;
         border-right-width: 0em;
         border-top-width: thin;
